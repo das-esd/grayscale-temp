@@ -1,1 +1,1 @@
-# grayscale-temp
+# Website Template - Grayscale
